@@ -5,6 +5,7 @@ import random
 #this is a comment
 #this is a comment
 #this is a comment
+#this is a comment
 
 pygame.init()
 # create the screen
